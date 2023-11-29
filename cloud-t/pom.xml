@@ -12,7 +12,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring-boot.version>2.7.4</spring-boot.version>
+        <spring-boot.version>2.7.18</spring-boot.version>
     </properties>
 
     <dependencies>
@@ -121,7 +121,7 @@
 
             <artifactId>logback-core</artifactId>
 
-            <version>1.2.11</version>
+            <version>1.4.12</version>
 
         </dependency>
 
@@ -132,7 +132,7 @@
 
             <artifactId>logback-classic</artifactId>
 
-            <version>1.2.11</version>
+            <version>1.4.12</version>
 
         </dependency>
 
